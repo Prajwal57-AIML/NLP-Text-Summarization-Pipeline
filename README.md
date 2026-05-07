@@ -18,7 +18,7 @@ Python 3.8, NLP (Text Summarization), Flask, PyTorch/Transformers, Docker, AWS (
 
 ## 🚀 How to Run This Project
 ### Step 1: Clone Repository
-git clone https://github.com/krishnaik06/Text-Summarization-NLP-Project.git  
+git clone https://github.com/
 cd Text-Summarization-NLP-Project  
 
 ### Step 2: Create Environment
